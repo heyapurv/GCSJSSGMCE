@@ -420,3 +420,6 @@ tr {
     margin-left: 0;
   }
 }
+#greetingName{
+  text-align: center;
+}
